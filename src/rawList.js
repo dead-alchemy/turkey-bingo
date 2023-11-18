@@ -7,7 +7,7 @@ export const options = [
 	"Cheesy Cornbread",
 	"Bad Joke",
 	"Something Too Spicy",
-	"Someone Crys",
+	"Someone Cries",
 	"Couple Arguement",
 	"Kid Cries",
 	"Convo With Stranger",
@@ -25,4 +25,6 @@ export const options = [
 	"Food Good",
 	"Food on Shirt (Stained)",
 	"Smoke Break",
+	"Steven Name Debate",
+	"I Wish I Could Have Wine"
 ];
