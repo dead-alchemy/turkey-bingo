@@ -24,4 +24,5 @@ export const options = [
 	"Meme Shared",
 	"Food Good",
 	"Food on Shirt (Stained)",
+	"Smoke Break",
 ];
