@@ -26,5 +26,7 @@ export const options = [
 	"Food on Shirt (Stained)",
 	"Smoke Break",
 	"Steven Name Debate",
-	"I Wish I Could Have Wine"
+	"I Wish I Could Have Wine",
+	"Todd is Black", 
+	"Thank You For Your Service"
 ];
