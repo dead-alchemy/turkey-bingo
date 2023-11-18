@@ -24,7 +24,7 @@ function App() {
 		const newOptions = Array.from(options);
 
 		const oldMaybe = JSON.parse(localStorage.getItem("card"));
-		if (oldMaybe.length === 25) {
+		if (oldMaybe !== null) {
 			setCard(oldMaybe);
 		} else {
 			for (let index = 0; index < 25; index++) {
