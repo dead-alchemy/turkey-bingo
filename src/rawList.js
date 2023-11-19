@@ -28,5 +28,9 @@ export const options = [
 	"Steven Name Debate",
 	"I Wish I Could Have Wine",
 	"Todd is Black", 
-	"Thank You For Your Service"
+	"Pants to the Ground",
+	"Say something in Español",
+	"$5 football",
+	"Make Someone Finish Thier Drink",
+	"Give A Hug"
 ];
